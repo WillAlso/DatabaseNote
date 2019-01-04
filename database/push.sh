@@ -1,4 +1,4 @@
 #!/bin/bash
 git add *
 git commit -m "`date`"
-git push -u orign master
+git push -u origin master
